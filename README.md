@@ -1,5 +1,3 @@
-# index-rebalancing-strategy
-
 # Index Rebalancing & Predictable Flows
 
 ## Overview
