@@ -15,23 +15,15 @@ This project implements an algorithmic trading strategy that exploits the S&P 50
 - S&P 500 changes (2010–2024)
 - Alpaca API + yfinance
 
-## Results
-- Annual Return: XX%
-- Sharpe Ratio: X.X
-- Max Drawdown: XX%
-
 ## Key Insights
 - Additions outperform removals
 - Strategy driven by passive fund flows
 - Performance declines slightly over time (crowding)
 
 ## How to Run
-1. Run notebooks in order:
-   - 01_data_collection
-   - 02_signal_generation
-   - 03_backtesting
+1. Run notebooks 
 2. All results are reproducible
 
 ## Author
-Your Name
+Pooja Dhumal
 FIN 7053 – Algorithmic Trading
